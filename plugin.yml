@@ -1,0 +1,16 @@
+name: LChat
+main: net.levss.chat.Main
+version: 1.0
+author: levss
+
+commands:
+  chat:
+  
+permissions:
+  LChat.chat:
+    default: op
+  LChat.pisanie:
+    default: op
+  LChat.slow:
+    default: op
+    
